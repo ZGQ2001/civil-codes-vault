@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3e22f6d7c22bb389",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd827c62a15f172e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c7d14435abeabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_检测项目/砌体灰缝质量检测.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "砌体灰缝质量检测"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9b7da6bb3689824",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c06f81bc7e5dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2a917110e3abdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "921e5a9b42861f72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0b950fc3c7277dd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11879856d085680b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff29a2601824f587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c48cacc046589d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_检测项目/砌体灰缝质量检测.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "砌体灰缝质量检测 的反向链接列表"
+            }
+          },
+          {
+            "id": "4f3b451ad149ac6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_检测项目/砌体灰缝质量检测.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "砌体灰缝质量检测 的出链列表"
+            }
+          },
+          {
+            "id": "5202777742ff6cdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ff19ccfda6be7bef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7d45f996b344deb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_检测项目/砌体灰缝质量检测.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "砌体灰缝质量检测 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "45c7d14435abeabc",
+  "lastOpenFiles": [
+    "10_检测项目/砌体裂缝检测.md",
+    "10_检测项目/结构性能静力荷载检验.md",
+    "10_检测项目/结构可靠性鉴定.md",
+    "10_检测项目/混凝土内部缺陷检测.md",
+    "10_检测项目/混凝土强度检测.md",
+    "10_检测项目/混凝土裂缝检测.md",
+    "10_检测项目/钢筋锈蚀检测.md",
+    "10_检测项目/钢筋间距检测.md",
+    "10_检测项目/钢筋保护层厚度检测.md",
+    "10_检测项目/钢结构焊缝检测.md",
+    "10_检测项目/钢材厚度检测.md",
+    "10_检测项目/变形监测.md",
+    "10_检测项目/结构外观质量检测.md",
+    "10_检测项目/砌体灰缝质量检测.md"
+  ]
+}
